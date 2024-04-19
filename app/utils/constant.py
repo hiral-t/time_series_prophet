@@ -1,0 +1,5 @@
+
+RAW_DATA_FILE_PATH = './ARTIFACTS/DATA/'
+TRAINING_FILE_NAME = 'training_data.csv'
+TRAINING_DATA_PATH = './ARTIFACTS/DATA/'
+TRAINED_MODEL_PATH = './ARTIFACTS/DATA/model/retail_sales_model.joblib'
